@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Utilisateur/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/Utilisateur/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Utilisateur/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/ThirdPerson/Input/Actions/IA_Run.uasset",
+				"C:/Users/Utilisateur/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Utilisateur/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Utilisateur/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/AI.uasset",
 				"C:/Users/dodge/OneDrive/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/dodge/OneDrive/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/dodge/OneDrive/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/PlayerBlink.uasset",
@@ -24,11 +30,7 @@
 				"C:/Users/dodge/OneDrive/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/AI.uasset",
 				"C:/Users/dodge/OneDrive/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/NewHUD.uasset",
 				"C:/Users/dodge/OneDrive/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/Widget.uasset",
-				"C:/Users/dodge/OneDrive/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/Materials/M_Blur.uasset",
-				"C:/Users/Utilisateur/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/StarterContent/Audio/Collapse01.uasset",
-				"C:/Users/Utilisateur/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Utilisateur/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/ThirdPerson/Input/Actions/IA_Run.uasset",
-				"C:/Users/Utilisateur/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/ThirdPerson/Input/IMC_Default.uasset"
+				"C:/Users/dodge/OneDrive/Documents/GitHub/HorrorGame/Close_Your_Eyes_Beta/Content/Materials/M_Blur.uasset"
 			]
 		}
 	]
