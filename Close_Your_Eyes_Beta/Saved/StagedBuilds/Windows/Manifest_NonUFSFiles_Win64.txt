@@ -19,4 +19,4 @@ Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2022-12-15T18:15:17.25
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2022-12-15T18:15:21.340Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2022-12-15T18:15:21.340Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2022-12-15T18:28:02.919Z
-Close_Your_Eyes_Beta.exe	2023-01-18T02:53:51.754Z
+Close_Your_Eyes_Beta.exe	2023-01-19T14:35:01.059Z
